@@ -5,9 +5,12 @@
 - **Python**
 - **Javascript/TypeScript**
 
-## Machine Learning Frameworks
+## Frameworks & Libs
 - **Pytorch**
 - **Scikit-Learn**
+-**Numpy&Pandas**
+-**React**
+-**Node.js**
 
 ## Grafik und UI
 - **OpenGL**
