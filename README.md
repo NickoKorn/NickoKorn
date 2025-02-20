@@ -8,9 +8,9 @@
 ## Frameworks & Libs
 - **Pytorch**
 - **Scikit-Learn**
--**Numpy&Pandas**
--**React**
--**Node.js**
+- **Numpy&Pandas**
+- **React**
+- **Node.js**
 
 ## Grafik und UI
 - **OpenGL**
