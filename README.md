@@ -11,7 +11,7 @@
 - **Numpy&Pandas**
 - **React**
 - **Node.js**
-
+- **FastAPI**
 ## Grafik und UI
 - **OpenGL**
 - **Qt**
