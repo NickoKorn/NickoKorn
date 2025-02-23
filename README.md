@@ -9,7 +9,7 @@
 - **Pytorch**
 - **Scikit-Learn**
 - **Numpy&Pandas**
-- **other commons like Transformers**
+- **other commons like Transformers, SciPy, Pymc, MatPlotLib etc.**
 
 ## Mobile/Web/Server 
 - **React**
