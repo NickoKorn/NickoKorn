@@ -10,7 +10,7 @@
 - **Scikit-Learn**
 - **Numpy&Pandas**
 
-## Mobile/Server 
+## Mobile/Web/Server 
 - **React**
 - **Node.js/Express.js**
 - **FastAPI**
