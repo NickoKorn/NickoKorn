@@ -5,13 +5,16 @@
 - **Python**
 - **Javascript/TypeScript**
 
-## Frameworks & Libs
+## ML
 - **Pytorch**
 - **Scikit-Learn**
 - **Numpy&Pandas**
+
+## Mobile/Server 
 - **React**
 - **Node.js/Express.js**
 - **FastAPI**
+
 ## Grafik und UI
 - **OpenGL**
 - **Qt**
