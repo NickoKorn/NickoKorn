@@ -9,7 +9,7 @@
 - **Pytorch**
 - **Scikit-Learn**
 - **Numpy&Pandas**
-- **other commons like Huggingface**
+- **other commons like Transformers**
 
 ## Mobile/Web/Server 
 - **React**
