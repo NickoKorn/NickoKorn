@@ -16,7 +16,7 @@
 - **Node.js/Express.js**
 - **FastAPI**
 
-## Grafik und UI
+## Grafik & UI
 - **OpenGL**
 - **Qt**
 - **Three.js**
