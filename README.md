@@ -19,6 +19,7 @@
 ## Grafik und UI
 - **OpenGL**
 - **Qt**
+- **Three.js**
 
 ## Streams
 - **Apache Kafka**
