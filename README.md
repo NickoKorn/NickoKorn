@@ -10,7 +10,7 @@
 - **Scikit-Learn**
 - **Numpy&Pandas**
 - **React**
-- **Node.js**
+- **Node.js/Express.js**
 - **FastAPI**
 ## Grafik und UI
 - **OpenGL**
