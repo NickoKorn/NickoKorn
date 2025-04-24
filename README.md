@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 ## Programming Languages
-- **C++**
 - **Python**
 - **Javascript/TypeScript**
+- **C++**
+
 - ## Other Languages
 - **SQL**
 - **HTML & CSS**
