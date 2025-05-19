@@ -2,7 +2,7 @@
 
 ## Programming Languages
 - **Python**
-- **Javascript/TypeScript**
+- **Javascript**
 
 - ## Other Languages
 - **SQL**
