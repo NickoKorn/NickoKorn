@@ -1,11 +1,6 @@
 ## Hi there 👋
 
-## Programming Languages
-- **Python**
-- **Javascript**
+Highly interested in data scientist research and applications related to it.
+Especially reinforcement leanrning in simulation environments.
 
-- ## Other Languages
-- **SQL**
-- **HTML & CSS**
-- **Latex**
-- **Bash**
+Mostly in Python.
